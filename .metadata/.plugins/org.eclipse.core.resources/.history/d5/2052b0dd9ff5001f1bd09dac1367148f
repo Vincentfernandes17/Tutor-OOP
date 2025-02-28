@@ -19,7 +19,7 @@ public class Application {
 //			Spicy Level: 1
 //			Ingredients:
 //			Steam Rice, Beef blackpepper, Chicken Teriyaki, Japanesse Chicken sauce, Ekado, Tori no teba, Egg Chicken roll, Coleslaw, Chili Sauce, Tomato Sauce, Mayonese
-			System.out.printf("%s (%d Kcal)\n", food.getName(), food.getCalories());
+			System.out.printf("%s (%d)\n", food.getName(), food.getCalories());
 			System.out.printf("Description: %s\n", food.getDescription());
 			System.out.printf("Spicy Level: %d\n", food.getSpicyLevel());
 			System.out.println("Ingredients:");
