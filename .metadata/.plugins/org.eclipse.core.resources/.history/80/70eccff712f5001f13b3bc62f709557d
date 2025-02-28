@@ -1,0 +1,10 @@
+package kiosTalenta;
+
+public class Admin {
+
+	public Object getUsername() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

@@ -1,0 +1,12 @@
+package kiosTalenta;
+
+public class Item {
+	private String name;
+	private int quantity;
+	private int price;
+	
+	public Item(String name, int quantity, int price) {
+		// TODO Auto-generated constructor stub
+	}
+
+}

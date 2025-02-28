@@ -1,0 +1,14 @@
+package kiosTalenta;
+
+public class Admin {
+
+	public Admin(String id, String username, String string3) {
+		// TODO Auto-generated constructor stub
+	}
+
+	public Object getUsername() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

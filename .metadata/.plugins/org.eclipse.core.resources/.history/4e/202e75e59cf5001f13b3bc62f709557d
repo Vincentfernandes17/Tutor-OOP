@@ -1,0 +1,24 @@
+package yourMeal;
+import java.util.*;
+
+public class Application {
+	ArrayList<Food> foods = new ArrayList<Food>();
+	ArrayList<Order> orders = new ArrayList<Order>();
+	
+	public void addNewFood(Food newFood) {
+		foods.add(newFood);	
+		System.out.printf("%s was successfully added to the kitchen!\n", newFood.getName());
+	}
+
+	public void displayFoods() {
+		System.out.println("Food List:");
+		System.out.println("----------------------------------------------------------------------------------------------------");
+		
+	}
+
+	public void order(User username, Food food, String date) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

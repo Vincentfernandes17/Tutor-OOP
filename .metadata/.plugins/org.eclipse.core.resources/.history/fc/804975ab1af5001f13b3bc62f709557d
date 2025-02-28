@@ -1,0 +1,17 @@
+package kiosTalenta;
+
+public class Transaction {
+	private Buyer buyer;
+	private Item item;
+	private int quantity;
+	private int cost;
+	
+	public Transaction(Buyer buyer, Item item, int quantity, int cost) {
+		this.buyer = buyer;
+		this.item = item;
+		this.quantity = quantity;
+		this.cost = cost;
+	}
+	
+	
+}

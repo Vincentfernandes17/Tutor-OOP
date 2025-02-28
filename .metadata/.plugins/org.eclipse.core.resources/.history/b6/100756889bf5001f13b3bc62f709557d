@@ -1,0 +1,11 @@
+package yourMeal;
+
+public class User {
+	private String id;
+	private String username;
+	
+	public User(String id, String username) {
+		// TODO Auto-generated constructor stub
+	}
+
+}

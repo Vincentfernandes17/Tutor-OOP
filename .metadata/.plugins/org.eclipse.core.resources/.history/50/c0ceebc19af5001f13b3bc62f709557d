@@ -1,0 +1,11 @@
+package yourMeal;
+
+public class Order {
+	private int count;
+
+	public static Object getCount() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

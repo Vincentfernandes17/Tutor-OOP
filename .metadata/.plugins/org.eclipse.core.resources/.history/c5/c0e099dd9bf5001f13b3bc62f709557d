@@ -1,0 +1,27 @@
+package yourMeal;
+
+public class Order {
+	private static int count;
+	private User user;
+	private Food food;
+	private String date;
+
+	public static int getCount() {
+		return count;
+	}
+
+	public User getUser() {
+		return user;
+	}
+
+	public void setUser(User user) {
+		this.user = user;
+	}
+
+//	public void setCount(int count) {
+//		this.count = count;
+//	}
+
+	
+
+}

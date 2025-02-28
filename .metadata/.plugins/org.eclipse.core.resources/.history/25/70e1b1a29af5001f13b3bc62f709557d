@@ -1,0 +1,10 @@
+package yourMeal;
+
+public class Application {
+
+	public void addNewFood(Food newFood) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

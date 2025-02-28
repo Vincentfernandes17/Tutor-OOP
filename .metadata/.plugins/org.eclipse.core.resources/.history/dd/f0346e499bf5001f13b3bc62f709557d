@@ -1,0 +1,17 @@
+package yourMeal;
+
+public class Food {
+	private String name;
+	private String description;
+	
+
+	public Food(String name, String description, int spicyLevel, int calorie) {
+		// TODO Auto-generated constructor stub
+	}
+
+	public void addIngredient(Ingredient ingredient) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

@@ -1,0 +1,9 @@
+package yourMeal;
+
+public class Food {
+
+	public Food(String name, String desc, int i, int calorie) {
+		// TODO Auto-generated constructor stub
+	}
+
+}

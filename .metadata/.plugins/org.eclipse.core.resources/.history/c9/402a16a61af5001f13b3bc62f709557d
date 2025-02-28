@@ -1,0 +1,10 @@
+package kiosTalenta;
+
+public class Transaction {
+	private Buyer buyer;
+	private Item item;
+	private int quantity;
+	private int cost;
+	
+	
+}

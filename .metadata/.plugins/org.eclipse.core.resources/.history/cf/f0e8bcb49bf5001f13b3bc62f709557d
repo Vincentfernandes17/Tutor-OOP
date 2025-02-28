@@ -1,0 +1,10 @@
+package yourMeal;
+
+public class Ingredient {
+	private String name;
+	
+	public Ingredient(String component) {
+		// TODO Auto-generated constructor stub
+	}
+
+}

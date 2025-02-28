@@ -1,0 +1,9 @@
+package yourMeal;
+
+public class Ingredient {
+
+	public Ingredient(String component) {
+		// TODO Auto-generated constructor stub
+	}
+
+}

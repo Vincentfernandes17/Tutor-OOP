@@ -1,0 +1,6 @@
+package kiosTalenta;
+
+public class Transaction {
+	private int quantity;
+	private int cost;
+}

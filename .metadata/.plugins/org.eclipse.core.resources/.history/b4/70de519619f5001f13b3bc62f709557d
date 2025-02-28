@@ -1,0 +1,9 @@
+package kiosTalenta;
+
+public class Buyer {
+
+	public Buyer(String name, String classroom, int cash) {
+		// TODO Auto-generated constructor stub
+	}
+
+}
